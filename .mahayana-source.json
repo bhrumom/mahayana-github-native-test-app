@@ -1,0 +1,9 @@
+{
+  "provider": "github",
+  "repository": "bhrumom/mahayana-github-native-test-app",
+  "repositoryId": 0,
+  "defaultBranch": "main",
+  "license": "Apache-2.0",
+  "visibility": "public",
+  "subdirectory": "."
+}

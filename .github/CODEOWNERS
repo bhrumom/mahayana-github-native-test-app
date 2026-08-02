@@ -1,0 +1,12 @@
+* @bhrum
+/.github/workflows/ @bhrum
+/.github/CODEOWNERS @bhrum
+/.github/rulesets/ @bhrum
+/mcp-app.yaml @bhrum
+/permissions.json @bhrum
+/tools.json @bhrum
+/tool-contract.json @bhrum
+/scripts/create-release-manifest.mjs @bhrum
+/scripts/build-artifacts.sh @bhrum
+/internal/contract/ @bhrum
+/runtime/web/ @bhrum
